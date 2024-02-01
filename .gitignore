@@ -1,0 +1,5 @@
+.vagrant/
+.kube/
+
+init-worker.sh
+kubeadm/admin.conf
